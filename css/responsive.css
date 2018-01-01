@@ -65,10 +65,11 @@
 }
 
 @media only screen and (max-width: 700px){
+
   #navbar nav a {
     display: none;
   }
-  #navbar mav a.menu-icon {
+  #navbar nav a.menu-icon {
     display: block;
     float: right;
     font-size: 1.5em;
